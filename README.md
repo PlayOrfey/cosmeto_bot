@@ -1,1 +1,0 @@
-# cosmeto_bot
